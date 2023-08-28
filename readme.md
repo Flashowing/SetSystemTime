@@ -8,7 +8,7 @@
 
 如图所示，点击设置按钮即可修改系统时间，点击恢复按钮即可恢复系统时间为北京时间。
 
-![readme1.png](readme1.png)
+![readme.png](readme.png)
 
 ## 3. 编译
 
@@ -28,3 +28,4 @@ npm run make
 ## 4. 下载
 
 [下载地址](https://github.com/Flashowing/SetSystemTime/releases)
+
